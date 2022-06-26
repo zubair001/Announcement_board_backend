@@ -1,7 +1,7 @@
 This is the backend part of Announcement Board application.
 
-## Technologies
-The following technologies have been used:  
+## Technology
+The following technology have been used:  
 - ExpressJS
 
 ## Available Scripts
